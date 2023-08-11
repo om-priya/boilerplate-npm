@@ -1,4 +1,9 @@
 {
+	"author": "Om Priya",
+	"description": "Be a OG",
+	"keywords": ["freecodecamp","Manipal"],
+	"license": "ophub",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
